@@ -1,0 +1,61 @@
+/*
+* Celea Ransom
+* Due Date
+* Metadata Classwork 
+*/
+
+/* The universal selector */
+
+*  {
+
+}
+
+/* Body attributes here */
+
+body {
+    font-family: Gothic L, Avantgarde, sans-serif;
+    background-color: black;
+    text-align:left; 
+}
+h1 {
+    text-decoration: overline underline;
+    text-decoration-color: aliceblue;
+    background-color: rgb(200, 200, 200);
+}
+header {
+ background-color:red;
+}
+main {
+    background-color:yellow;
+}
+
+footer {
+    background-color:skyblue;
+}
+hgroup {
+    text-align: center;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 175%;
+    background-color: #ee2356;
+}
+ul {
+    text-align: left;
+}
+h4{
+    text-align: left;
+    font-size: 104%;
+    text-indent:20px;
+}
+footer {
+    text-align: right;
+}
+#wiggles {
+    float: left;
+}
+p {
+    background-color: white;
+    color: purple;
+}
